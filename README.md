@@ -7,7 +7,7 @@
 3. Then, create a new file at the root of the module folder called 'app.js'.
 4. Within app.js, add the necessary code to:
 
-- import express (make sure to add the 'type': 'module' property and value set within the package.json file.
+- import express make sure to add the 'type': 'module' property and value set within the package.json file.
 - create the express app
 - set the 'public' folder as a static folder
 - get the '/' route and have it load 'index.html' from the public folder
